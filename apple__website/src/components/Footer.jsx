@@ -13,7 +13,7 @@ const Footer = () => {
             you.
           </p>
           <p className="font-semibold text-gray text-xs">
-            Or call 000800-040-1966
+            Or call 000000-000-0000
           </p>
         </div>
 
@@ -21,7 +21,7 @@ const Footer = () => {
 
         <div className="flex md:flex-row flex-col md:items-center justify-between">
           <p className="font-semibold text-gray text-xs">
-            Copright @ 2024 Apple Inc. All rights reserved.
+            Copright @ Nihat Taghizade. All rights reserved.
           </p>
           <div className="flex">
             {footerLinks.map((link, i) => (
